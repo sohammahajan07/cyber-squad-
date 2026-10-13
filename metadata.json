@@ -1,0 +1,6 @@
+{
+  "name": "KisanMandi - Farmer, Vendor & APMC Produce Network",
+  "description": "Direct agricultural marketplace connecting farmers, vendors, and APMC mandis with live vegetable rates, produce quality verification, and bulk requirement fulfillment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
